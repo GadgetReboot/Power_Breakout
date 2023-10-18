@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp32_devkit_v1_doit)(type Legacy)(uri ${KIPRJMOD}/esp32_devkit_v1_doit.lib)(options "")(descr ""))
+  (lib (name Power_Breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/Power_Breakout-rescue.lib)(options "")(descr ""))
+)
